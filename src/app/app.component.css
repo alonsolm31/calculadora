@@ -1,0 +1,70 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    color: red;
+}
+
+button {
+    color: withe;
+  }
+
+.display {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: gray;
+    border: orange;
+    
+  }
+  
+  .btn-num {
+    width: 5em;
+    height :5em;
+    padding:0;
+    min-width: 3em;
+    background-color: #B9B1B1;
+    margin-top: 0em;
+    margin-bottom: 0.01em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+  }
+  
+  .btn-answer {
+    width: 20.6em;
+    height: 4em; 
+    margin-bottom: 0em; 
+    margin-left: 0.1em;
+    background-color: withe;
+    display: block;
+  
+      text-align: right;
+  }
+  
+  .display {
+    margin-bottom: 0.25em;
+    margin-top: 0.25em
+  }
+  
+  .answer-header {
+    margin: 0;
+  
+  }
+  
+  .btn-zero {
+    width: 10.2em;
+    height: 5em;
+    min-width: 4.9em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    background-color: #B9B1B1;
+  }  
+  

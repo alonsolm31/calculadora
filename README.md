@@ -1,7 +1,8 @@
 # Calculadora
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
-Angular v15
+
+## Node & npm versions
 Node v16
 npm v8
 
